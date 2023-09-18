@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+#description,#attraction{
+    background-color: aquamarine;
+    color: hotpink;
+}
+button{
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 8px;
+    font-size: 30px;
+    padding: 10px;
+}
+button:hover{
+    background-color: red;
+}
